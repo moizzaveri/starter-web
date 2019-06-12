@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 ## Description
 
 ## Version
+
+## Copyright
+
+Copyright to Moiz
