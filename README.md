@@ -14,6 +14,8 @@ We need to deploy this.
 
 ## Version
 
+This is version 1.0
+
 ## Copyright
 
 Copyright to Moiz
